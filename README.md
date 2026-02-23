@@ -1,5 +1,8 @@
-## Hi there 👋I,m ARJUN A
+## Hi 👋 I,m ARJUN A
 
+## MERN Stack | Fullstack Developer
+
+I enjoy turning ideas into real-world web applications using the MERN stack. Skilled in authentication systems (JWT, OAuth), database design (MongoDB, PostgreSQL, MySQL), and secure API development. Currently focused on improving scalability, clean code practices, and system design.
 <!--
 **arjoonn/arjoonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
