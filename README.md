@@ -2,7 +2,14 @@
 
 ## MERN Stack | Fullstack Developer
 
-I enjoy turning ideas into real-world web applications using the MERN stack. Skilled in authentication systems (JWT, OAuth), database design (MongoDB, PostgreSQL, MySQL), and secure API development. Currently focused on improving scalability, clean code practices, and system design.
+Full Stack Developer (MCA) with strong expertise in the MERN stack.
+Experienced in building scalable web applications using React, Node.js, Express, and MongoDB.
+
+Skilled in PostgreSQL and MySQL for relational database design and optimization.
+Implemented secure authentication systems using JWT and OAuth 2.0.
+
+Proficient in JavaScript (ES6+), HTML5, CSS3, Next.js, Python, and API testing with Postman.
+Passionate about writing clean, maintainable code and continuously learning new technologies.
 
 ## Tech Stack
 
