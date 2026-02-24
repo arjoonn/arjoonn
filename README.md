@@ -4,7 +4,7 @@
 
 I enjoy turning ideas into real-world web applications using the MERN stack. Skilled in authentication systems (JWT, OAuth), database design (MongoDB, PostgreSQL, MySQL), and secure API development. Currently focused on improving scalability, clean code practices, and system design.
 
-##  Tech Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,postgres,mysql,nextjs,js,html,css,python,postman)](https://skillicons.dev)
 
